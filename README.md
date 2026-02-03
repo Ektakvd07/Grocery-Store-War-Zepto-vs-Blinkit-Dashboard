@@ -4,7 +4,7 @@ The dashboard enables side-by-side analysis of sales, orders, delivery time, cus
 
 The project demonstrates skills in data analysis, visualization, KPI design, and business storytelling using Power BI.
 
-**🎯 Objectives**
+**🎯 Objectives:**
 
 Compare overall sales and order performance of Zepto vs Blinkit
 
@@ -16,7 +16,7 @@ Understand customer behavior through ratings and payment modes
 
 Identify strengths and gaps between the two platforms
 
-**🧩 Dashboard Features**
+**🧩 Dashboard Features:**
 
 📈 Total Sales & Order KPIs
 
@@ -32,7 +32,7 @@ Identify strengths and gaps between the two platforms
 
 🔄 Interactive Slicers for brand, paymentmode, Quarter, and category
 
-**🛠️ Tools & Technologies**
+**🛠️ Tools & Technologies:**
 
 Power BI Desktop – Data modeling & visualization
 
@@ -43,7 +43,7 @@ DAX – Measures and calculated KPIs
 Excel / CSV – Data source
 
 
-**📊 Key KPIs Tracked**
+**📊 Key KPIs Tracked:**
 
 Total Sales Revenue
 
@@ -57,5 +57,5 @@ Category-wise Sales Contribution
 
 City-wise Order Volume
 
-**Screenshots/Demos**
+**Screenshots/Demos:**
 https://github.com/Ektakvd07/Grocery-Store-War-Zepto-vs-Blinkit-Dashboard/blob/main/Zepto_vs_Blinkit.png
